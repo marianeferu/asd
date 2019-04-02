@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1513352215 source:d:\info\asd\tema8\jn\main.cpp
+	<iostream>
+	<cctype>
+	<stdlib.h>
+	<conio.h>
+
+1515095889 source:d:\info\asd\tema8\avl\main.cpp
+	<iostream>
+	<cctype>
+	<stdlib.h>
+	<conio.h>
+
