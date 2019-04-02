@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516380122 source:d:\info\asd\tema10\1\main.cpp
+	<iostream>
+	<fstream>
+
